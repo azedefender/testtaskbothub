@@ -72,10 +72,5 @@ CREATE TABLE users (
     chat_id BIGINT UNIQUE NOT NULL,
     balance DECIMAL(10, 2) NOT NULL DEFAULT 0.00
 );
-```
 
-### Лицензия
 
-Этот проект лицензирован под MIT License. Вы можете свободно использовать и изменять его по своему усмотрению.
-
----
